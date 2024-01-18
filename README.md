@@ -9,11 +9,10 @@ A simple Sentiment Analysis web application built with Flask and NLTK's VADER. A
 - NLTK
 
 ## Installation
-```bash
+
 git clone https://github.com/shiv-eng/SentimentAnalysisTool.git
 cd SentimentAnalysisTool
 pip install -r requirements.txt
-
 
 ## Usage
 python app.py
@@ -38,4 +37,6 @@ Access the app at http://127.0.0.1:5000/. Enter text in the input field and clic
 - [NLTK](https://www.nltk.org/)
 
 Feel free to contribute or report issues!
+
+
 
